@@ -1,0 +1,9 @@
+tr{
+    background: lightgray;
+}
+td{
+    background-color: lightblue;
+}
+.finished{
+    background-color: pink;
+}
